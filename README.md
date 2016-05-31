@@ -1,8 +1,10 @@
 # SPD 2016 Introduction to Scientific Python and SunPy
 
 This repository contains the material presented at the 
+
 * Introduction to Scientific Python Session (Tuesday, May 31st, 2016)
 * SunPy 0.7 (Thursday, June 2nd, 2016)
+
 sessions at the 47th [SPD meeting 2016](http://www.nso.edu/SPD2016-schedule) which took place in Boulder CO.
 
 # Installing Python
