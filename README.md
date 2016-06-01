@@ -10,6 +10,8 @@ sessions at the 47th [SPD meeting 2016](http://www.nso.edu/SPD2016-schedule) whi
 # Installing Python
 The easiest way to get Python up and running on your system is to use [Anaconda](https://www.continuum.io/downloads) a python distribution and packacking system. You can find more information [here](http://docs.sunpy.org/en/stable/guide/installation/index.html#installing-scientific-python-and-sunpy). We recommend that you install Python 3.
 
+If all else fails: http://mybinder.org/repo/sunpy/2016SPD-Python-SunPy/
+
 # Background
 The scientific Python stack consists of the following 
 + [NumPy](http://numpy.org) - [docs](http://docs.scipy.org/doc/numpy/reference/index.html#reference)
